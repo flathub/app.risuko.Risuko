@@ -52,8 +52,8 @@ modules:
       - install -Dm644 LICENSE /app/share/licenses/app.risuko.Risuko/LICENSE
     sources:
       - type: archive
-        url: https://github.com/YueMiyuki/Risuko/archive/refs/tags/v1.2.0.tar.gz
-        sha256: 744dfaf800cc86bb087978e28e097a3ec65bd5c1b11d7f7ede946ae3f2c3af09
+        url: https://github.com/YueMiyuki/Risuko/archive/refs/tags/v1.3.0.tar.gz
+        sha256: 6f6aa2b180bc1c8a6eb56b8ca184e22cc469ba2076794dc0642359084542d62a
         strip-components: 1
         x-checker-data:
           type: json
